@@ -1,0 +1,17 @@
+#img-caption {
+  width: 800px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#main {
+  margin-left: 30vw;
+}
+
+h1 {
+  margin-left: 60px;
+}
